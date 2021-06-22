@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\IT-Academy\\Git\\Gadzjuka\\HW.DotNet.IT-Academy\\HomeWorks\\HW03.Operators\\HW03.Birthday\\HW03.Birthday(T7).csproj",
-      "projectName": "HW03.Birthday(T7)",
-      "projectPath": "Z:\\IT-Academy\\Git\\Gadzjuka\\HW.DotNet.IT-Academy\\HomeWorks\\HW03.Operators\\HW03.Birthday\\HW03.Birthday(T7).csproj",
+      "projectUniqueName": "Z:\\IT-Academy\\Git\\Gadzjuka\\HW.DotNet.IT-Academy\\HomeWorks\\HW03.Operators\\HW03.Calculator(T9)\\HW03.Calculator(T9).csproj",
+      "projectName": "HW03.Calculator(T9)",
+      "projectPath": "Z:\\IT-Academy\\Git\\Gadzjuka\\HW.DotNet.IT-Academy\\HomeWorks\\HW03.Operators\\HW03.Calculator(T9)\\HW03.Calculator(T9).csproj",
       "packagesPath": "C:\\Users\\Khodz\\.nuget\\packages\\",
-      "outputPath": "Z:\\IT-Academy\\Git\\Gadzjuka\\HW.DotNet.IT-Academy\\HomeWorks\\HW03.Operators\\HW03.Birthday\\obj\\",
+      "outputPath": "Z:\\IT-Academy\\Git\\Gadzjuka\\HW.DotNet.IT-Academy\\HomeWorks\\HW03.Operators\\HW03.Calculator(T9)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
