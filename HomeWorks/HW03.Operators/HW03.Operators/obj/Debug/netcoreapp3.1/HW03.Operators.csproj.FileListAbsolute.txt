@@ -1,0 +1,13 @@
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Operators\bin\Debug\netcoreapp3.1\HW03.Operators.exe
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Operators\bin\Debug\netcoreapp3.1\HW03.Operators.deps.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Operators\bin\Debug\netcoreapp3.1\HW03.Operators.runtimeconfig.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Operators\bin\Debug\netcoreapp3.1\HW03.Operators.runtimeconfig.dev.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Operators\bin\Debug\netcoreapp3.1\HW03.Operators.dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Operators\bin\Debug\netcoreapp3.1\HW03.Operators.pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Operators\obj\Debug\netcoreapp3.1\HW03.Operators.csproj.AssemblyReference.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Operators\obj\Debug\netcoreapp3.1\HW03.Operators.AssemblyInfoInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Operators\obj\Debug\netcoreapp3.1\HW03.Operators.AssemblyInfo.cs
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Operators\obj\Debug\netcoreapp3.1\HW03.Operators.csproj.CoreCompileInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Operators\obj\Debug\netcoreapp3.1\HW03.Operators.dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Operators\obj\Debug\netcoreapp3.1\HW03.Operators.pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Operators\obj\Debug\netcoreapp3.1\HW03.Operators.genruntimeconfig.cache
