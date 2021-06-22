@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Operators", "HW03.Operators\HW03.Operators.csproj", "{F0CEEFAB-EC45-462D-AF03-F83C5D3480BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Operators(T1-4)", "HW03.Operators\HW03.Operators(T1-4).csproj", "{F0CEEFAB-EC45-462D-AF03-F83C5D3480BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.ReverseAlphabet", "HW03.ReverseAlphabet\HW03.ReverseAlphabet.csproj", "{966D4B54-3A5D-4296-B832-6EA1F6B9C864}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.ReverseAlphabet(T5)", "HW03.ReverseAlphabet\HW03.ReverseAlphabet(T5).csproj", "{966D4B54-3A5D-4296-B832-6EA1F6B9C864}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.GameMovement(T6)", "HW03.GameMovement(T6)\HW03.GameMovement(T6).csproj", "{81CDB8CB-7BB7-4BA3-8D16-10ACC4E1B87F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Birthday", "HW03.Birthday\HW03.Birthday.csproj", "{5B071002-7EFE-4810-AC8F-D2D01AFB19AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{81CDB8CB-7BB7-4BA3-8D16-10ACC4E1B87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81CDB8CB-7BB7-4BA3-8D16-10ACC4E1B87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81CDB8CB-7BB7-4BA3-8D16-10ACC4E1B87F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B071002-7EFE-4810-AC8F-D2D01AFB19AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B071002-7EFE-4810-AC8F-D2D01AFB19AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B071002-7EFE-4810-AC8F-D2D01AFB19AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B071002-7EFE-4810-AC8F-D2D01AFB19AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

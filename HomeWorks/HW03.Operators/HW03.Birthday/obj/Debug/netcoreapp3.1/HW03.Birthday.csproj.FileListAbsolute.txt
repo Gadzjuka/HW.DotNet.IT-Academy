@@ -1,0 +1,13 @@
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Birthday\bin\Debug\netcoreapp3.1\HW03.Birthday.exe
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Birthday\bin\Debug\netcoreapp3.1\HW03.Birthday.deps.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Birthday\bin\Debug\netcoreapp3.1\HW03.Birthday.runtimeconfig.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Birthday\bin\Debug\netcoreapp3.1\HW03.Birthday.runtimeconfig.dev.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Birthday\bin\Debug\netcoreapp3.1\HW03.Birthday.dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Birthday\bin\Debug\netcoreapp3.1\HW03.Birthday.pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Birthday\obj\Debug\netcoreapp3.1\HW03.Birthday.csproj.AssemblyReference.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Birthday\obj\Debug\netcoreapp3.1\HW03.Birthday.AssemblyInfoInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Birthday\obj\Debug\netcoreapp3.1\HW03.Birthday.AssemblyInfo.cs
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Birthday\obj\Debug\netcoreapp3.1\HW03.Birthday.csproj.CoreCompileInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Birthday\obj\Debug\netcoreapp3.1\HW03.Birthday.dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Birthday\obj\Debug\netcoreapp3.1\HW03.Birthday.pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Birthday\obj\Debug\netcoreapp3.1\HW03.Birthday.genruntimeconfig.cache

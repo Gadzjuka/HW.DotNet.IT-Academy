@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\IT-Academy\\Git\\Gadzjuka\\HW.DotNet.IT-Academy\\HomeWorks\\HW03.Operators\\HW03.ReverseAlphabet\\HW03.ReverseAlphabet(T5).csproj",
-      "projectName": "HW03.ReverseAlphabet(T5)",
-      "projectPath": "Z:\\IT-Academy\\Git\\Gadzjuka\\HW.DotNet.IT-Academy\\HomeWorks\\HW03.Operators\\HW03.ReverseAlphabet\\HW03.ReverseAlphabet(T5).csproj",
+      "projectUniqueName": "Z:\\IT-Academy\\Git\\Gadzjuka\\HW.DotNet.IT-Academy\\HomeWorks\\HW03.Operators\\HW03.Birthday\\HW03.Birthday.csproj",
+      "projectName": "HW03.Birthday",
+      "projectPath": "Z:\\IT-Academy\\Git\\Gadzjuka\\HW.DotNet.IT-Academy\\HomeWorks\\HW03.Operators\\HW03.Birthday\\HW03.Birthday.csproj",
       "packagesPath": "C:\\Users\\Khodz\\.nuget\\packages\\",
-      "outputPath": "Z:\\IT-Academy\\Git\\Gadzjuka\\HW.DotNet.IT-Academy\\HomeWorks\\HW03.Operators\\HW03.ReverseAlphabet\\obj\\",
+      "outputPath": "Z:\\IT-Academy\\Git\\Gadzjuka\\HW.DotNet.IT-Academy\\HomeWorks\\HW03.Operators\\HW03.Birthday\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
