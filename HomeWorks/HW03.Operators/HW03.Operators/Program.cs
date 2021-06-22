@@ -19,9 +19,15 @@ namespace HW03.Operators
             number2 = GetNumberWithCheck();
             Console.WriteLine("Введите сумму чисел:");
             answer = GetNumberWithCheck();
+            Console.WriteLine($"{number1}+{number2}={number1+number2}");
+
 
             if (answer == (number1 + number2)) Console.WriteLine("Правильно");
-            else Console.WriteLine("Неправильно");
+            else
+            {
+                if (answer > (number1 + number2)) Console.WriteLine("Неправильно. Должно быть меньше.");
+                else Console.WriteLine("Неправильно. Должно быть больше.");
+            }            
         }
 
         //Получение числа с проверкой на правильность ввода
