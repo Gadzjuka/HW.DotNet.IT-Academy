@@ -9,15 +9,19 @@ namespace HW03.Operators
             SumTwoNumbers();
         }
 
-        //Запрос 2 переменных и вывод их суммы
+        //Запрос 2 переменных и вывод их суммы (Задача 1)
         static void SumTwoNumbers()
         {
-            double number1, number2;
+            double number1, number2, answer;
             Console.WriteLine("Введите первое число:");
             number1 = GetNumberWithCheck();
             Console.WriteLine("Введите второе число:");
             number2 = GetNumberWithCheck();
-            Console.WriteLine($"{number1}+{number2}={number1+number2}");
+            Console.WriteLine("Введите сумму чисел:");
+            answer = GetNumberWithCheck();
+
+            if (answer == (number1 + number2)) Console.WriteLine("Правильно");
+            else Console.WriteLine("Неправильно");
         }
 
         //Получение числа с проверкой на правильность ввода
