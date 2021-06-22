@@ -8,7 +8,7 @@ namespace HW03.ReverseAlphabet
         {
             for (int i = 90; i >= 65; i--)
             {
-                Console.WriteLine((char)i);
+                Console.WriteLine($"{i-64}) { (char)i} {(char)(i+32)}" );                
             }
         }
     }
