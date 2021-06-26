@@ -1,0 +1,13 @@
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\HW04\bin\Debug\netcoreapp3.1\HW04.exe
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\HW04\bin\Debug\netcoreapp3.1\HW04.deps.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\HW04\bin\Debug\netcoreapp3.1\HW04.runtimeconfig.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\HW04\bin\Debug\netcoreapp3.1\HW04.runtimeconfig.dev.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\HW04\bin\Debug\netcoreapp3.1\HW04.dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\HW04\bin\Debug\netcoreapp3.1\HW04.pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\HW04\obj\Debug\netcoreapp3.1\HW04.csproj.AssemblyReference.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\HW04\obj\Debug\netcoreapp3.1\HW04.AssemblyInfoInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\HW04\obj\Debug\netcoreapp3.1\HW04.AssemblyInfo.cs
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\HW04\obj\Debug\netcoreapp3.1\HW04.csproj.CoreCompileInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\HW04\obj\Debug\netcoreapp3.1\HW04.dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\HW04\obj\Debug\netcoreapp3.1\HW04.pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\HW04\obj\Debug\netcoreapp3.1\HW04.genruntimeconfig.cache
