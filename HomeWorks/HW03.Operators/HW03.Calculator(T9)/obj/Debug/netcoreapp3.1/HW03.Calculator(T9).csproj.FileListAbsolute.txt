@@ -1,0 +1,12 @@
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Calculator(T9)\obj\Debug\netcoreapp3.1\HW03.Calculator(T9).AssemblyInfoInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Calculator(T9)\obj\Debug\netcoreapp3.1\HW03.Calculator(T9).AssemblyInfo.cs
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Calculator(T9)\obj\Debug\netcoreapp3.1\HW03.Calculator(T9).csproj.CoreCompileInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Calculator(T9)\bin\Debug\netcoreapp3.1\HW03.Calculator(T9).exe
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Calculator(T9)\bin\Debug\netcoreapp3.1\HW03.Calculator(T9).deps.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Calculator(T9)\bin\Debug\netcoreapp3.1\HW03.Calculator(T9).runtimeconfig.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Calculator(T9)\bin\Debug\netcoreapp3.1\HW03.Calculator(T9).runtimeconfig.dev.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Calculator(T9)\bin\Debug\netcoreapp3.1\HW03.Calculator(T9).dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Calculator(T9)\bin\Debug\netcoreapp3.1\HW03.Calculator(T9).pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Calculator(T9)\obj\Debug\netcoreapp3.1\HW03.Calculator(T9).dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Calculator(T9)\obj\Debug\netcoreapp3.1\HW03.Calculator(T9).pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.Calculator(T9)\obj\Debug\netcoreapp3.1\HW03.Calculator(T9).genruntimeconfig.cache

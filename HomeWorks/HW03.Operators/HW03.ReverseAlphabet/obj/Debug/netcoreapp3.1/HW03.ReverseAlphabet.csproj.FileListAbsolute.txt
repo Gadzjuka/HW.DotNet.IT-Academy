@@ -1,0 +1,13 @@
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.ReverseAlphabet\bin\Debug\netcoreapp3.1\HW03.ReverseAlphabet.exe
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.ReverseAlphabet\bin\Debug\netcoreapp3.1\HW03.ReverseAlphabet.deps.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.ReverseAlphabet\bin\Debug\netcoreapp3.1\HW03.ReverseAlphabet.runtimeconfig.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.ReverseAlphabet\bin\Debug\netcoreapp3.1\HW03.ReverseAlphabet.runtimeconfig.dev.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.ReverseAlphabet\bin\Debug\netcoreapp3.1\HW03.ReverseAlphabet.dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.ReverseAlphabet\bin\Debug\netcoreapp3.1\HW03.ReverseAlphabet.pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.ReverseAlphabet\obj\Debug\netcoreapp3.1\HW03.ReverseAlphabet.csproj.AssemblyReference.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.ReverseAlphabet\obj\Debug\netcoreapp3.1\HW03.ReverseAlphabet.AssemblyInfoInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.ReverseAlphabet\obj\Debug\netcoreapp3.1\HW03.ReverseAlphabet.AssemblyInfo.cs
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.ReverseAlphabet\obj\Debug\netcoreapp3.1\HW03.ReverseAlphabet.csproj.CoreCompileInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.ReverseAlphabet\obj\Debug\netcoreapp3.1\HW03.ReverseAlphabet.dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.ReverseAlphabet\obj\Debug\netcoreapp3.1\HW03.ReverseAlphabet.pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HW03.Operators\HW03.ReverseAlphabet\obj\Debug\netcoreapp3.1\HW03.ReverseAlphabet.genruntimeconfig.cache
