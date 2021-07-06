@@ -1,0 +1,13 @@
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\AssemblyOne\bin\Debug\netcoreapp3.1\AssemblyOne.exe
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\AssemblyOne\bin\Debug\netcoreapp3.1\AssemblyOne.deps.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\AssemblyOne\bin\Debug\netcoreapp3.1\AssemblyOne.runtimeconfig.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\AssemblyOne\bin\Debug\netcoreapp3.1\AssemblyOne.runtimeconfig.dev.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\AssemblyOne\bin\Debug\netcoreapp3.1\AssemblyOne.dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\AssemblyOne\bin\Debug\netcoreapp3.1\AssemblyOne.pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\AssemblyOne\obj\Debug\netcoreapp3.1\AssemblyOne.csproj.AssemblyReference.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\AssemblyOne\obj\Debug\netcoreapp3.1\AssemblyOne.AssemblyInfoInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\AssemblyOne\obj\Debug\netcoreapp3.1\AssemblyOne.AssemblyInfo.cs
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\AssemblyOne\obj\Debug\netcoreapp3.1\AssemblyOne.csproj.CoreCompileInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\AssemblyOne\obj\Debug\netcoreapp3.1\AssemblyOne.dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\AssemblyOne\obj\Debug\netcoreapp3.1\AssemblyOne.pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\AssemblyOne\obj\Debug\netcoreapp3.1\AssemblyOne.genruntimeconfig.cache
