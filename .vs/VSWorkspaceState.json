@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HomeWorks",
+    "\\HomeWorks\\HomeWorks",
+    "\\HomeWorks\\HomeWorks\\AssemblyOne",
+    "\\HomeWorks\\HomeWorks\\HW6.Task2"
   ],
-  "SelectedNode": "\\Z:\\IT-Academy\\Git\\Gadzjuka\\HW.DotNet.IT-Academy",
+  "SelectedNode": "\\HomeWorks\\HomeWorks\\HW6.Task2\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
