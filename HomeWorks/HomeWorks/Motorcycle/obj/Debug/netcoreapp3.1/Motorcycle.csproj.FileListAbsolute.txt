@@ -1,0 +1,13 @@
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\Motorcycle\bin\Debug\netcoreapp3.1\Motorcycle.exe
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\Motorcycle\bin\Debug\netcoreapp3.1\Motorcycle.deps.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\Motorcycle\bin\Debug\netcoreapp3.1\Motorcycle.runtimeconfig.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\Motorcycle\bin\Debug\netcoreapp3.1\Motorcycle.runtimeconfig.dev.json
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\Motorcycle\bin\Debug\netcoreapp3.1\Motorcycle.dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\Motorcycle\bin\Debug\netcoreapp3.1\Motorcycle.pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\Motorcycle\obj\Debug\netcoreapp3.1\Motorcycle.csproj.AssemblyReference.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\Motorcycle\obj\Debug\netcoreapp3.1\Motorcycle.AssemblyInfoInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\Motorcycle\obj\Debug\netcoreapp3.1\Motorcycle.AssemblyInfo.cs
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\Motorcycle\obj\Debug\netcoreapp3.1\Motorcycle.csproj.CoreCompileInputs.cache
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\Motorcycle\obj\Debug\netcoreapp3.1\Motorcycle.dll
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\Motorcycle\obj\Debug\netcoreapp3.1\Motorcycle.pdb
+Z:\IT-Academy\Git\Gadzjuka\HW.DotNet.IT-Academy\HomeWorks\HomeWorks\Motorcycle\obj\Debug\netcoreapp3.1\Motorcycle.genruntimeconfig.cache
