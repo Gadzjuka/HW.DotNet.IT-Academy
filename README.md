@@ -1,1 +1,0 @@
-# HW.DotNet.IT-Academy
